@@ -1,16 +1,17 @@
 import React from "react"
 import Card from 'react-bootstrap/Card';
-import pwdimg from '../../../public/Images/pwdgen.png';
+import pwdimg from '../../Images/pwdgen.png';
+
 
 export default function Projects() {
     return (
         <div>
             <h2>My Work</h2>
             <div className="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-                <Card style={{ width: '18rem' }}>
+                <Card style={{ maxWidth: '18rem' }}>
                     <Card.Img src={pwdimg} variant="top" alt="a password generator application" />
                     <Card.Body>
-                        <Card.Text>A password generator that can apply a number of different parameters.</Card.Text>
+                        <Card.Text className="card-text">A password generator that can apply a number of different parameters.</Card.Text>
                         <Card.Link href="https://rosethorn10.github.io/password-gen/" target="_blank">Password Generator</Card.Link>
                     </Card.Body>
                 </Card>
