@@ -6,6 +6,7 @@
     align-items: stretch;
     gap: 2rem;
     padding: 0 1rem;
+    height: 12vh;
 }
 
 .site-title {
@@ -32,7 +33,7 @@
 
 .nav li:hover {
     background-color: rgb(167, 202, 177);
-    box-shadow: 1px 2px rgb(136, 183, 181);
+    box-shadow: 2px 3px rgb(136, 183, 181);
 }
 
 .nav li:active {

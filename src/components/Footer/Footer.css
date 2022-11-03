@@ -1,4 +1,12 @@
 .footer {
-    background-image: linear-gradient(rgb(203, 230, 249), rgb(136, 183, 181));
-    color: black;
+    color: rgb(244, 236, 214);
+    padding: 5px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    align-items: center;
+    vertical-align: middle;
+}
+.footer h6 {
+    margin: 0;
 }

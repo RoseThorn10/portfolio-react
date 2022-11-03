@@ -3,9 +3,12 @@ import React from "react";
 export default function About() {
     return (
       <div>
-        <h1>About</h1>
+        <h2>About Me</h2>
         <p>
-         I'm a web developer living in the Chicago area. I love to learn and I'm always eager to learn new skills. My top-notch communication skills help me get to know my clients and find out what they really want and need from a project. From there, I take great pride in bringing their dreams to life!
+         I'm a web developer living in the Chicago area. I'm always eager to learn new skills. I enjoy working with my team and clients to build something to be proud of.
+        </p>
+        <p>
+          My skills include HTML/CSS, Javascript, SQL and NOSQL databases, and a few others.
         </p>
       </div>
     );
