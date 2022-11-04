@@ -4,11 +4,11 @@
 }
 
 body {
-  margin: 0;
+  margin: 2rem;
   background-image: url(../public/Chicago_skyline_kz03.jpg);
   background-size: cover;
 }
 
-p {
+.about {
   width: 25vw;
 }

@@ -1,4 +1,3 @@
-.card-text {
-    overflow-wrap: break-word;
-    word-wrap: break-word;
+.card {
+    margin: 2rem;
 }
