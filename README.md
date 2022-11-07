@@ -7,3 +7,4 @@ This portfolio was created using ReactJS and React-Bootstrap. In it, you will fi
 ![Chicago Lakefront](./public/lakefront.png)
 
 ## Link to Live Page
+[Live page](https://rosethorn10.github.io/portfolio-react-leah/)
