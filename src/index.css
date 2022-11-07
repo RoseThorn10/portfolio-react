@@ -5,7 +5,7 @@
 
 body {
   margin: 2rem;
-  background-image: url(../public/Chicago_skyline_kz03.jpg);
+  background-image: url('./Images/Chicago_skyline_kz03.jpg');
   background-size: cover;
 }
 
