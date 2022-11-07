@@ -1,17 +1,19 @@
 {
-  "files": {
-    "main.css": "/portfolio-leah/static/css/main.c4a8d763.css",
-    "main.js": "/portfolio-leah/static/js/main.72da199e.js",
-    "static/media/Chicago_skyline_kz03.jpg": "/portfolio-leah/static/media/Chicago_skyline_kz03.127139021782dd6e2647.jpg",
-    "static/media/joypainting.png": "/portfolio-leah/static/media/joypainting.fe4d0542560eee6a1fb8.png",
-    "static/media/AAIC.png": "/portfolio-leah/static/media/AAIC.d4fa7f8b2592a6a771c1.png",
-    "static/media/weather-page.png": "/portfolio-leah/static/media/weather-page.e4cbf07a19f2a3fb8050.png",
-    "index.html": "/portfolio-leah/index.html",
-    "main.c4a8d763.css.map": "/portfolio-leah/static/css/main.c4a8d763.css.map",
-    "main.72da199e.js.map": "/portfolio-leah/static/js/main.72da199e.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.c4a8d763.css",
-    "static/js/main.72da199e.js"
-  ]
+  "main.css": "/portfolio-leah/static/css/main.0dee41f6.chunk.css",
+  "main.js": "/portfolio-leah/static/js/main.5919a267.chunk.js",
+  "main.js.map": "/portfolio-leah/static/js/main.5919a267.chunk.js.map",
+  "static/css/1.a6f297ed.chunk.css": "/portfolio-leah/static/css/1.a6f297ed.chunk.css",
+  "static/js/1.349b88b9.chunk.js": "/portfolio-leah/static/js/1.349b88b9.chunk.js",
+  "static/js/1.349b88b9.chunk.js.map": "/portfolio-leah/static/js/1.349b88b9.chunk.js.map",
+  "runtime~main.js": "/portfolio-leah/static/js/runtime~main.5251601b.js",
+  "runtime~main.js.map": "/portfolio-leah/static/js/runtime~main.5251601b.js.map",
+  "static/media/index.css": "/portfolio-leah/static/media/Chicago_skyline_kz03.a1b89608.jpg",
+  "static/media/weather-page.png": "/portfolio-leah/static/media/weather-page.90d12201.png",
+  "static/media/AAIC.png": "/portfolio-leah/static/media/AAIC.a9de5776.png",
+  "static/media/joypainting.png": "/portfolio-leah/static/media/joypainting.855658f0.png",
+  "static/css/1.a6f297ed.chunk.css.map": "/portfolio-leah/static/css/1.a6f297ed.chunk.css.map",
+  "static/css/main.0dee41f6.chunk.css.map": "/portfolio-leah/static/css/main.0dee41f6.chunk.css.map",
+  "index.html": "/portfolio-leah/index.html",
+  "precache-manifest.19e2ab063086936ec1d624870c8a55fb.js": "/portfolio-leah/precache-manifest.19e2ab063086936ec1d624870c8a55fb.js",
+  "service-worker.js": "/portfolio-leah/service-worker.js"
 }
