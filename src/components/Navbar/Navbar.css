@@ -1,5 +1,5 @@
 .nav {
-    background-image: linear-gradient(rgb(136, 183, 181), rgb(203, 230, 249));
+    background: rgb(31, 96, 160);
     color: black;
     display: flex;
     justify-content: space-between;
@@ -32,10 +32,10 @@
 }
 
 .nav li:hover {
-    background-color: rgb(167, 202, 177);
-    box-shadow: 2px 3px rgb(136, 183, 181);
+    background-color: rgb(205, 203, 192);
+    box-shadow: 2px 3px rgb(154, 143, 132);
 }
 
 .nav li:active {
-    background-color: rgb(244, 236, 214);
+    background-color: rgb(219, 234, 231);
 }

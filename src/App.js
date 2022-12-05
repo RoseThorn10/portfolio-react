@@ -3,8 +3,6 @@ import React, { useState } from "react";
 import Navbar from "./components/Navbar/Navbar";
 import "./components/Navbar/Navbar.css";
 import "./index.css"
-import Footer from "./components/Footer/Footer";
-import "./components/Footer/Footer.css"
 import About from "./components/About";
 import Projects from "./components/Projects/Projects";
 import "./components/Projects/Projects.css";
@@ -44,7 +42,6 @@ function App() {
     <>
       <Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
-      <Footer />
     </>
   );
 }

@@ -5,10 +5,19 @@
 
 body {
   margin: 2rem;
-  background-image: url('./Images/Chicago_skyline_kz03.jpg');
+  background-image: url(./Images/hancock.jpg);
   background-size: cover;
 }
 
 .about {
+  color: white;
   width: 25vw;
+}
+
+h1 {
+  color: rgb(228, 253, 251);
+}
+
+h2 {
+  color: rgb(228, 253, 251);
 }

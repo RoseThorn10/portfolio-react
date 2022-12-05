@@ -16,6 +16,7 @@ export default function Projects() {
                     <Card.Body>
                         <Card.Text className="card-text">A password generator that can apply a number of different parameters.</Card.Text>
                         <Card.Link href="https://rosethorn10.github.io/password-gen/" target="_blank">Password Generator</Card.Link>
+                        <Card.Link href="https://github.com/RoseThorn10/password-gen" target="_blank">Source Code</Card.Link>
                     </Card.Body>
                 </Card>
                 {/* </div> */}
