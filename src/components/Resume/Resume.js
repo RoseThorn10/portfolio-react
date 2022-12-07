@@ -3,7 +3,7 @@ import React from "react";
 export default function Resume() {
     return (
         <div className="resume">
-            <h2>Resume</h2>
+            <h2>My Skills</h2>
             <h4>
                 Management and Leadership
             </h4>
@@ -42,6 +42,7 @@ export default function Resume() {
                     MySQL and MongoDB
                 </li>
             </ul>
+            <p>Download my full <a href="./Resume/Leah-Roman-Resume.pdf" download></a>resume</p>
         </div>
     );
 }

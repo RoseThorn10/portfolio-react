@@ -5,19 +5,9 @@
 
 body {
   margin: 2rem;
-  background-image: url(./Images/hancock.jpg);
-  background-size: cover;
+  background-image: linear-gradient(to right, #CDCBC0, #9A8F84)
 }
 
 .about {
-  color: white;
   width: 25vw;
-}
-
-h1 {
-  color: rgb(228, 253, 251);
-}
-
-h2 {
-  color: rgb(228, 253, 251);
 }
