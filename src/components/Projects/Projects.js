@@ -13,7 +13,7 @@ export default function Projects() {
         <div>
             <h2>My Work</h2>
             <div className="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-                <Card style={{ width: '18rem' }}>
+                {/* <Card style={{ width: '18rem' }}>
                     <Card.Img src={pwdimg} variant="top" alt="a password generator application" />
                     <Card.Body>
                         <Card.Text className="card-text">A password generator that can apply a number of different parameters.</Card.Text>
@@ -26,7 +26,7 @@ export default function Projects() {
                             </ListGroup.Item>
                         </ListGroup>
                     </Card.Body>
-                </Card>
+                </Card> */}
                 {/* </div> */}
                 <Card style={{ maxWidth: '18rem' }}>
                     <Card.Img src={wthrimg} variant="top" alt="weather application" />
@@ -56,7 +56,7 @@ export default function Projects() {
                         </ListGroup>
                     </Card.Body>
                 </Card>
-                <Card style={{ maxWidth: '18rem' }}>
+                {/* <Card style={{ maxWidth: '18rem' }}>
                     <Card.Img src={joy} variant="top" alt="Joy of Painting theme" />
                     <Card.Body>
                         <Card.Text class="card-text">A group project building a complete full-stack web application</Card.Text>
@@ -69,7 +69,7 @@ export default function Projects() {
                             </ListGroup.Item>
                         </ListGroup>
                     </Card.Body>
-                </Card>
+                </Card> */}
                 <Card style={{ maxWidth: '18rem' }}>
                     <Card.Img src={marvel} variant="top" alt="Marvel Comics characters" />
                     <Card.Body>

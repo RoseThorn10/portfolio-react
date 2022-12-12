@@ -42,7 +42,6 @@ export default function Resume() {
                     MySQL and MongoDB
                 </li>
             </ul>
-            <p>Download my full <a href="./Resume/Leah-Roman-Resume.pdf" download></a>resume</p>
         </div>
     );
 }
